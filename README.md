@@ -10,4 +10,3 @@ A Hands-Free Audio Experience
 
 <img src="img/Screenshot82"> <br/>
 <img src="img/Screenshot89"> <br/>
-
