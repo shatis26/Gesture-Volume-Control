@@ -8,6 +8,6 @@ A Hands-Free Audio Experience
   the volume of their devices simply by gesturing with their hands in the air.
 
 
-<img src="Screenshot82"> <br/>
-<img src="Screenshot89"> <br/>
+<img src="img/Screenshot82"> <br/>
+<img src="img/Screenshot89"> <br/>
 
